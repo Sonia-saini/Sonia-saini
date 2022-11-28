@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sonia Saini</h1>
 <h3 align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding partice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonia-saini&label=Profile%20views&color=0e75b6&style=flat" alt="sonia-saini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonia-saini" alt="sonia-saini" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sonia-saini/Sonia-saini.github.io](https://github.com/Sonia-saini/Sonia-saini.github.io)
 
@@ -15,7 +13,9 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1XB63squZKUnewogOIIy4Ikmlck2yS2m1?usp=share_link](https://drive.google.com/drive/folders/1XB63squZKUnewogOIIy4Ikmlck2yS2m1?usp=share_link)
 
 - ⚡ Fun fact **full stack web developer**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonia-saini&label=Profile%20views&color=0e75b6&style=flat" alt="sonia-saini" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonia-saini" alt="sonia-saini" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sonia-saini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonia-saini/" height="30" width="40" /></a>
