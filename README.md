@@ -1,5 +1,4 @@
-<img src="[https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--LwphdzNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1468/1%2A-HtkHUxjLiK0tj6qOzdOrw.gif)" width="100%"/>
-<img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="300px" height="150px" margin="auto"/>
+<img src="https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif" width="300px" height="150px" margin="auto"/>
 <h1 align="center">Hi 👋, I'm Sonia Saini</h1>
 <h3 align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding partice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</h3>
 
