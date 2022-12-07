@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **soniasaini67730@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1XB63squZKUnewogOIIy4Ikmlck2yS2m1?usp=share_link](https://drive.google.com/drive/folders/1XB63squZKUnewogOIIy4Ikmlck2yS2m1?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1M8UgLlsEoeNhZe0l-9crjLrKGvTvMjNC/view?usp=share_link">Resume</a>
+
+  
 
 - ⚡ Fun fact **full stack web developer**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonia-saini&label=Profile%20views&color=0e75b6&style=flat" alt="sonia-saini" /> </p>
