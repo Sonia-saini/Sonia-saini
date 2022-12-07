@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soniasaini67730@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1M8UgLlsEoeNhZe0l-9crjLrKGvTvMjNC/view?usp=share_link">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11OHGvZZKcAZwo6LOsPvks5gSPjMynVIp/view?usp=share_link">Resume</a>
 
   
 
