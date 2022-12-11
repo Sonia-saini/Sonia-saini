@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://Sonia-saini.github.io](https://github.com/Sonia-saini/Sonia-saini.github.io)
+- 👨‍💻 All of my projects are available at [https://Sonia-saini.github.io](https://sonia-saini.github.io/)
 
 - 💬 Ask me about **javascript,react,redux**
 
