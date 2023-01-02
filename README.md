@@ -44,9 +44,9 @@
   </a>
 </p>
 <h3 align="center">  My Github Stats </h3>
-<p align="center"><img align="center" width="500px" height="200px"src="https://github-readme-stats.vercel.app/api/top-langs?username=sonia-saini&show_icons=true&locale=en&layout=compact" alt="sonia-saini" /></p>
+<p align="center"><img align="center" width="600px" height="200px"src="https://github-readme-stats.vercel.app/api/top-langs?username=sonia-saini&show_icons=true&locale=en&layout=compact" alt="sonia-saini" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonia-saini&show_icons=true&locale=en" alt="sonia-saini" width="500px" height="200px" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonia-saini&show_icons=true&locale=en" alt="sonia-saini" width="600px" height="200px" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonia-saini&" alt="sonia-saini"  width="500px" height="200px"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonia-saini&" alt="sonia-saini"  width="600px" height="200px"/></p>
 
